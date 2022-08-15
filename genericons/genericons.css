@@ -9,8 +9,8 @@
     src: url('https://fedrikaristiyanto.github.io/fonts/genericons/font/genericons-regular-webfont.woff') format('woff'),
          url('https://fedrikaristiyanto.github.io/fonts/genericons/font/genericons-regular-webfont.ttf') format('truetype'),
          url('https://fedrikaristiyanto.github.io/fonts/genericons/font/genericons-regular-webfont.svg#Genericons') format('svg');
-    font-weight: normal;
-    font-style: normal;
+     font-weight: normal;
+     font-style: normal;
 
 }
 
@@ -20,11 +20,11 @@
  */
 
 .genericon {
-	display: inline;
+	display: inline-block;
 	width: 16px;
 	height: 16px;
 	-webkit-font-smoothing: antialiased;
-	font-size: 20px;
+	font-size: 16px;
 	line-height: 1;
 	font-family: 'Genericons';
 	text-decoration: inherit;
