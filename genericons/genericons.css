@@ -20,7 +20,7 @@
  */
 
 .genericon {
-	display: inline;
+	display: inline-block;
 	width: 16px;
 	height: 16px;
 	-webkit-font-smoothing: antialiased;
