@@ -30,7 +30,8 @@
 	text-decoration: inherit;
 	font-weight: normal;
 	font-style: normal;
-	vertical-align: baseline;
+	vertical-align: top;
+text-align:center;
 }
 
 /**
