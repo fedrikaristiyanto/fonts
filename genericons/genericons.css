@@ -1,7 +1,4 @@
 
-
-
-
 @font-face {
     font-family: 'Genericons';
     src: url('https://fedrikaristiyanto.github.io/fonts/genericons/font/genericons-regular-webfont.eot');
@@ -23,11 +20,11 @@
  */
 
 .genericon {
-	display: inline-block;
+	display: inline;
 	width: 16px;
 	height: 16px;
 	-webkit-font-smoothing: antialiased;
-	font-size: 16px;
+	font-size: 20px;
 	line-height: 1;
 	font-family: 'Genericons';
 	text-decoration: inherit;
