@@ -25,7 +25,7 @@
 	height: 16px;
 	-webkit-font-smoothing: antialiased;
 	font-size: larger;
-	/*line-height: 1;*/
+	line-height: 1;
 	font-family: 'Genericons';
 	text-decoration: inherit;
 	font-weight: normal;
